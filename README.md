@@ -8,5 +8,7 @@ An example admin account exists to view all the options available to a real admi
 *Giving the world unrestrained admin access is bad :)
 
 Fake Admin Account Information
+
 example-admin@test.com
-#SafePassword123
+
+\#SafePassword123
