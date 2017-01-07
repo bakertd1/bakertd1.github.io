@@ -7,7 +7,7 @@ A newly registered user will not be an admin and therefore will have limited acc
 An example admin account exists to view all the options available to a real admin but it cannot change the database.
 *Giving the world unrestrained admin access is bad :)
 
-Fake Admin Account Information
+##Fake Admin Account Information
 
 example-admin@test.com
 
