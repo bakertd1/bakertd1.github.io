@@ -2,13 +2,4 @@
 
 This is the production version of Library-Website hosted on github pages at https://bakertd1.github.io
 
-A newly registered user will not be an admin and therefore will have limited access to options.
-
-An example admin account exists to view all the options available to a real admin but it cannot change the database.
-*Giving the world unrestrained admin access is bad :)
-
-##Fake Admin Account Information
-
-example-admin@test.com
-
-\#SafePassword123
+### Unfortunately the API for Library, which was previously hosted on Microsoft Azure, is no longer active as it is becoming too expensive for me to continue to host it. I am currently working on upgrading the API to use ASP.NET Core so that I can host it in a (cheaper) Linux environment.
